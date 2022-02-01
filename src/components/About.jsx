@@ -16,7 +16,7 @@ function About() {
           <div class="col-lg-5">
             <h1 class="font-weight-light">About</h1>
             <p>
-                Michel and Harmon have been lifting for several years. Our main focus has been bodybuilding,
+                Michael and Harmon have been lifting for several years. Our main focus has been bodybuilding,
                 however recently we've both been getting into powerlifting. Harmon is currently on the UW Powerlifting
                 Team, and Michael will be joining the team this semester. We've tried multiple splits and have learned
                 what works for us and others through helping friends along the way. We've come up with our current workout plans
