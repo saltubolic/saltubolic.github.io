@@ -10,7 +10,7 @@ const Home = () => {
       <div class="container">
         <div class="row align-items-center my-5">
           <div class="col-lg-7">
-               <img
+              <img
               class="img-fluid rounded mb-4 mb-lg-0"
               src= {image}
               alt=""
